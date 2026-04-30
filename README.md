@@ -1,1 +1,1 @@
-# C learning journey - Day 1: 2026m-30
+# C learning journey - Day 1: 2026-04-30
